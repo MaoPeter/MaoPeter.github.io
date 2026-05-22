@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "(A short paragraph about your research area, themes, and motivating questions.)"
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "",
+    "text": "(A short paragraph about your research area, themes, and motivating questions.)"
+  },
+  {
+    "objectID": "research.html#publications-and-preprints",
+    "href": "research.html#publications-and-preprints",
+    "title": "Research",
+    "section": "Publications and preprints",
+    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2025. Necklaces over a Group with Identity Product. https://arxiv.org/abs/2405.08937."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Hello, world\n\n\n\nmeta\n\n\n\nA first post — and a check that math and code rendering both work.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Peter Mao",
+    "section": "",
+    "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are in combinatorics broadly, but my focus has lately been on dynamical algebraic combinatorics.\nYou can reach me at peter.mao@drexel.edu."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "A PDF version of my CV is available here."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPhD, Mathematics, Drexel University (in progress)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research interests",
+    "text": "Research interests\n(Brief list.)"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nSee the Research page."
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nSee the Teaching page."
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "Hello, world",
+    "section": "",
+    "text": "This is the first post on the site. It exists mostly to verify that the things I care about render correctly."
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html#math",
+    "href": "blog/posts/welcome/index.html#math",
+    "title": "Hello, world",
+    "section": "Math",
+    "text": "Math\nInline: the Euler identity is \\(e^{i\\pi} + 1 = 0\\).\nDisplay: \\[\n\\int_{-\\infty}^{\\infty} e^{-x^2}\\,dx = \\sqrt{\\pi}.\n\\]"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html#a-python-cell",
+    "href": "blog/posts/welcome/index.html#a-python-cell",
+    "title": "Hello, world",
+    "section": "A Python cell",
+    "text": "A Python cell\n\nimport math\n[math.factorial(n) for n in range(8)]\n\n[1, 1, 2, 6, 24, 120, 720, 5040]"
+  },
+  {
+    "objectID": "blog/posts/welcome/index.html#sage",
+    "href": "blog/posts/welcome/index.html#sage",
+    "title": "Hello, world",
+    "section": "Sage",
+    "text": "Sage\nFor Sage cells, set the chunk language to {python} and run with a Sage-aware kernel locally, then commit the _freeze/ directory so CI doesn’t need Sage installed. Example:\n# Run locally in a Sage-aware environment:\n# R.&lt;x&gt; = QQ[]\n# factor(x^4 - 1)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
+  },
+  {
+    "objectID": "teaching.html#drexel-university",
+    "href": "teaching.html#drexel-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
+  },
+  {
+    "objectID": "teaching.html#notes-and-handouts",
+    "href": "teaching.html#notes-and-handouts",
+    "title": "Teaching",
+    "section": "Notes and handouts",
+    "text": "Notes and handouts\n(Optional: links to expository notes you’ve written for students.)"
+  }
+]

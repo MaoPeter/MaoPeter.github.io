@@ -1,0 +1,9 @@
+/* Tighten section spacing slightly and lean academic. */
+h1, h2, h3 { font-weight: 600; }
+h2 { margin-top: 2rem; }
+
+/* Subtle list spacing in publication output. */
+#refs > div { margin-bottom: 0.75rem; }
+
+/* Slightly muted footer. */
+.nav-footer { color: #666; font-size: 0.9rem; }

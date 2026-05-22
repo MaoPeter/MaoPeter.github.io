@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Peter Mao</title>
+<link>https://maopeter.github.io/blog/</link>
+<atom:link href="https://maopeter.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Mathematics PhD student at Drexel University</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Hello, world</title>
+  <link>https://maopeter.github.io/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This is the first post on the site. It exists mostly to verify that the things I care about render correctly.</p>
+<section id="math" class="level2">
+<h2 class="anchored" data-anchor-id="math">Math</h2>
+<p>Inline: the Euler identity is <img src="https://latex.codecogs.com/png.latex?e%5E%7Bi%5Cpi%7D%20+%201%20=%200">.</p>
+<p>Display: <img src="https://latex.codecogs.com/png.latex?%0A%5Cint_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7D%20e%5E%7B-x%5E2%7D%5C,dx%20=%20%5Csqrt%7B%5Cpi%7D.%0A"></p>
+</section>
+<section id="a-python-cell" class="level2">
+<h2 class="anchored" data-anchor-id="a-python-cell">A Python cell</h2>
+<div id="0d86d6c2" class="cell" data-execution_count="1">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="im" style="color: #00769E;
+background-color: null;
+font-style: inherit;">import</span> math</span>
+<span id="cb1-2">[math.factorial(n) <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> n <span class="kw" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span> <span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">range</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">8</span>)]</span></code></pre></div></div>
+<div class="cell-output cell-output-display" data-execution_count="1">
+<pre><code>[1, 1, 2, 6, 24, 120, 720, 5040]</code></pre>
+</div>
+</div>
+</section>
+<section id="sage" class="level2">
+<h2 class="anchored" data-anchor-id="sage">Sage</h2>
+<p>For Sage cells, set the chunk language to <code>{python}</code> and run with a Sage-aware kernel locally, then commit the <code>_freeze/</code> directory so CI doesn’t need Sage installed. Example:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># Run locally in a Sage-aware environment:</span></span>
+<span id="cb3-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># R.&lt;x&gt; = QQ[]</span></span>
+<span id="cb3-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># factor(x^4 - 1)</span></span></code></pre></div></div>
+
+
+</section>
+
+ ]]></description>
+  <category>meta</category>
+  <guid>https://maopeter.github.io/blog/posts/welcome/</guid>
+  <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
