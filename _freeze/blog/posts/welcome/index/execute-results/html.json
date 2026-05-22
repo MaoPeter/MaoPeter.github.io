@@ -1,0 +1,12 @@
+{
+  "hash": "2e670cc92ed12a372dbb9eb724ffa7d8",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Hello, world\"\ndescription: \"A first post — and a check that math and code rendering both work.\"\ndate: \"2026-05-21\"\ncategories: [meta]\n---\n\nThis is the first post on the site. It exists mostly to verify that the things I care about render correctly.\n\n## Math\n\nInline: the Euler identity is $e^{i\\pi} + 1 = 0$.\n\nDisplay:\n$$\n\\int_{-\\infty}^{\\infty} e^{-x^2}\\,dx = \\sqrt{\\pi}.\n$$\n\n## A Python cell\n\n::: {#0d86d6c2 .cell execution_count=1}\n``` {.python .cell-code}\nimport math\n[math.factorial(n) for n in range(8)]\n```\n\n::: {.cell-output .cell-output-display execution_count=1}\n```\n[1, 1, 2, 6, 24, 120, 720, 5040]\n```\n:::\n:::\n\n\n## Sage\n\nFor Sage cells, set the chunk language to `{python}` and run with a Sage-aware kernel locally, then commit the `_freeze/` directory so CI doesn't need Sage installed. Example:\n\n```python\n# Run locally in a Sage-aware environment:\n# R.<x> = QQ[]\n# factor(x^4 - 1)\n```\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,34 @@
+---
+title: "Hello, world"
+description: "A first post — and a check that math and code rendering both work."
+date: "2026-05-21"
+categories: [meta]
+---
+
+This is the first post on the site. It exists mostly to verify that the things I care about render correctly.
+
+## Math
+
+Inline: the Euler identity is $e^{i\pi} + 1 = 0$.
+
+Display:
+$$
+\int_{-\infty}^{\infty} e^{-x^2}\,dx = \sqrt{\pi}.
+$$
+
+## A Python cell
+
+```{python}
+import math
+[math.factorial(n) for n in range(8)]
+```
+
+## Sage
+
+For Sage cells, set the chunk language to `{python}` and run with a Sage-aware kernel locally, then commit the `_freeze/` directory so CI doesn't need Sage installed. Example:
+
+```python
+# Run locally in a Sage-aware environment:
+# R.<x> = QQ[]
+# factor(x^4 - 1)
+```

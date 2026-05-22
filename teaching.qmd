@@ -1,0 +1,13 @@
+---
+title: "Teaching"
+---
+
+## Drexel University
+
+*(Courses you've taught or TA'd. A simple list works; expand with links to syllabi or course pages as desired.)*
+
+- **MATH XXX** — Course name *(term, year)*. Role: TA / instructor.
+
+## Notes and handouts
+
+*(Optional: links to expository notes you've written for students.)*

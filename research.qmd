@@ -1,0 +1,17 @@
+---
+title: "Research"
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+## Interests
+
+*(A short paragraph about your research area, themes, and motivating questions.)*
+
+## Publications and preprints
+
+Listed below from `publications.bib`. As you add entries to that file they will appear here automatically.
+
+::: {#refs}
+:::
