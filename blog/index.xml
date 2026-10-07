@@ -9,7 +9,7 @@
 <link>https://maopeter.github.io/blog/</link>
 <atom:link href="https://maopeter.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Mathematics PhD student at Drexel University</description>
-<generator>quarto-1.9.37</generator>
+<generator>quarto-1.10.19</generator>
 <lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Hello, world</title>

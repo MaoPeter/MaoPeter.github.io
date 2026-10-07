@@ -18,21 +18,7 @@
     "href": "research.html#publications-and-preprints",
     "title": "Research",
     "section": "Publications and preprints",
-    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2025. Necklaces over a Group with Identity Product. https://arxiv.org/abs/2405.08937."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Hello, world\n\n\n\nmeta\n\n\n\nA first post — and a check that math and code rendering both work.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Peter Mao",
-    "section": "",
-    "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are in combinatorics broadly, but my focus has lately been on dynamical algebraic combinatorics.\nYou can reach me at peter.mao@drexel.edu."
+    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2025. Necklaces over a Group with Identity Product. https://arxiv.org/abs/2405.08937.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
   },
   {
     "objectID": "cv.html",
@@ -70,6 +56,34 @@
     "text": "Teaching\nSee the Teaching page."
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Hello, world\n\n\n\nmeta\n\n\n\nA first post — and a check that math and code rendering both work.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
+  },
+  {
+    "objectID": "teaching.html#drexel-university",
+    "href": "teaching.html#drexel-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
+  },
+  {
+    "objectID": "teaching.html#notes-and-handouts",
+    "href": "teaching.html#notes-and-handouts",
+    "title": "Teaching",
+    "section": "Notes and handouts",
+    "text": "Notes and handouts\n(Optional: links to expository notes you’ve written for students.)"
+  },
+  {
     "objectID": "blog/posts/welcome/index.html",
     "href": "blog/posts/welcome/index.html",
     "title": "Hello, world",
@@ -98,24 +112,10 @@
     "text": "Sage\nFor Sage cells, set the chunk language to {python} and run with a Sage-aware kernel locally, then commit the _freeze/ directory so CI doesn’t need Sage installed. Example:\n# Run locally in a Sage-aware environment:\n# R.&lt;x&gt; = QQ[]\n# factor(x^4 - 1)"
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Peter Mao",
     "section": "",
-    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
-  },
-  {
-    "objectID": "teaching.html#drexel-university",
-    "href": "teaching.html#drexel-university",
-    "title": "Teaching",
-    "section": "",
-    "text": "(Courses you’ve taught or TA’d. A simple list works; expand with links to syllabi or course pages as desired.)\n\nMATH XXX — Course name (term, year). Role: TA / instructor."
-  },
-  {
-    "objectID": "teaching.html#notes-and-handouts",
-    "href": "teaching.html#notes-and-handouts",
-    "title": "Teaching",
-    "section": "Notes and handouts",
-    "text": "Notes and handouts\n(Optional: links to expository notes you’ve written for students.)"
+    "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are in combinatorics broadly, but my focus has lately been on dynamical algebraic combinatorics.\nYou can reach me at peter.mao@drexel.edu."
   }
 ]
