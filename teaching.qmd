@@ -4,10 +4,24 @@ title: "Teaching"
 
 ## Drexel University
 
-*(Courses you've taught or TA'd. A simple list works; expand with links to syllabi or course pages as desired.)*
+### Instructor of record
 
-- **MATH XXX** — Course name *(term, year)*. Role: TA / instructor.
+- **MATH 122** — Calculus II *(Fall 2026)*. [Syllabus](syllabi/math122-fall2026.pdf)
+- **MATH 221** — Discrete Mathematics *(Summer 2026)*. Redesigned around mastery-based testing: 11 core and 6 advanced learning objectives, each assessed by short proficiency checks with retakes. [Syllabus](syllabi/math221-summer2026.pdf)
+- **MATH 101** — Introduction to Analysis I *(Fall 2024)*. [Syllabus](syllabi/math101-fall2024.pdf)
+- **MATH 221** — Discrete Mathematics *(Summer 2024)*. Weekly proof-based homework with a corrections policy, and timed take-home exams. [Syllabus](syllabi/math221-summer2024.pdf)
 
-## Notes and handouts
+### Teaching assistant
 
-*(Optional: links to expository notes you've written for students.)*
+- **MATH 311** — Probability and Statistics I *(Winter 2024, Spring 2025, Spring 2026)*
+- **MATH 200** — Multivariable Calculus *(Spring 2024, Winter 2025, Fall 2025)*
+- **MATH 121** — Calculus I *(Winter 2026)*
+- **MATH 102** — Introduction to Analysis II *(Fall 2022, Winter 2023, Spring 2023)*
+
+### Tutoring
+
+- **Math Resource Center** — tutor *(every term since Fall 2022)*
+
+## Cornell University
+
+- Undergraduate teaching assistant for introductory physics labs.
