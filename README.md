@@ -9,6 +9,16 @@ quarto preview      # live-reloading dev server
 quarto render       # one-shot build into _site/
 ```
 
+## Updating the CV
+
+The CV source is `cv/cv.tex`. After editing it:
+
+```sh
+cd cv && latexmk -pdf -outdir=build cv.tex && cp build/cv.pdf ../cv.pdf
+```
+
+The site serves the committed `cv.pdf`; CI does not compile LaTeX.
+
 ## How it's deployed
 
 On every push to `main`, the workflow at `.github/workflows/publish.yml`:

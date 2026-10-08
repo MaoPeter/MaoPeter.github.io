@@ -1,0 +1,121 @@
+% CV source. Build with:  latexmk -pdf -outdir=build cv.tex  (run inside cv/)
+% then copy build/cv.pdf to ../cv.pdf, which is what the website serves.
+\documentclass[11pt]{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{needspace}
+\usepackage{hyperref}
+\definecolor{linkblue}{HTML}{1F4E79} % same as the website's link color
+\hypersetup{colorlinks=true, linkcolor=linkblue, urlcolor=linkblue}
+
+\pagestyle{plain}
+\setlength{\parindent}{0pt}
+
+% Placeholder for information still to be filled in. Search for \TBD to find them all.
+\newcommand{\TBD}[1]{\textcolor{red}{[#1]}}
+
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\vspace{-0.6em}\rule{\textwidth}{0.4pt}]
+\titlespacing*{\section}{0pt}{1.4em}{0.6em}
+
+% \entry{left}{right}: a line with text on the left and a date on the right.
+\newcommand{\entry}[2]{\textbf{#1}\hfill #2\par}
+% \dated{text}{date}: wrapping text on the left, date pinned to the right margin.
+\newcommand{\dated}[2]{%
+  \parbox[t]{\dimexpr\linewidth-8em\relax}{#1}\hfill\parbox[t]{7.5em}{\raggedleft #2}}
+
+\setlist[itemize]{leftmargin=1.5em, itemsep=0.2em, topsep=0.3em}
+
+\begin{document}
+
+{\centering
+  {\LARGE\bfseries Peter Mao}\par\medskip
+  Department of Mathematics, Drexel University\par
+  Korman Center, Room 221, 3141 Chestnut St, Philadelphia, PA 19104\par
+  \href{mailto:peter.mao@drexel.edu}{peter.mao@drexel.edu}
+  \quad$\cdot$\quad \href{https://maopeter.github.io}{maopeter.github.io}\par
+}
+
+\section*{Education}
+
+\entry{Drexel University}{2022 -- present}
+Ph.D.\ in Mathematics (expected 2027)\par
+Advisor: Darij Grinberg\par
+M.S.\ in Mathematics, 2024
+
+\medskip
+\entry{Cornell University}{2018 -- 2022}
+B.A.\ in Mathematics, \emph{cum laude}, 2022
+
+\section*{Research Interests}
+
+Algebraic combinatorics, dynamical algebraic combinatorics,\\
+symmetric group algebras, permutation statistics.
+
+\section*{Publications and Preprints}
+
+\begin{enumerate}[leftmargin=1.5em, itemsep=0.4em]
+  \item \emph{Foatic homomesy}. Preprint (2026).
+    \href{https://maopeter.github.io/papers/foatic-homomesy.pdf}{PDF}.
+    % TODO: add arXiv number once posted
+  \item (with Darij Grinberg) \emph{Necklaces over a group with identity product}.
+    \emph{Journal of Integer Sequences} \textbf{29} (2026), Article 26.4.6.
+    \href{https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html}{Journal version}.
+    \href{https://arxiv.org/abs/2405.08937}{arXiv:2405.08937}.
+\end{enumerate}
+
+\section*{Talks}
+
+\begin{itemize}
+  \item \dated{\emph{Foatic homomesy: telescoping proofs for orbit-averages on $S_n$}.\\
+    SIAM Student Chapter, Drexel University}{May 2026}
+  \item \dated{\emph{Necklaces over a group with identity product:}\\
+    \emph{counting and bijective connections}.\\ SIAM Student Chapter, Drexel University}{November 2024}
+\end{itemize}
+
+\section*{Conferences and Workshops}
+
+\begin{itemize}
+  \item \dated{Mid-Atlantic Algebra, Geometry, and Combinatorics Workshop (MAAGC),\\
+    Virginia Commonwealth University \emph{(upcoming)}}{October 2026}
+  \item \dated{Formal Power Series and Algebraic Combinatorics (FPSAC 2026),\\
+    University of Washington}{July 2026}
+  \item \dated{Triangle Lectures in Combinatorics, Wake Forest University}{April 2026}
+\end{itemize}
+
+\needspace{8\baselineskip}
+\section*{Teaching}
+
+\textbf{Instructor of record}, Drexel University
+\begin{itemize}
+  \item MATH 122, Calculus II \hfill Fall 2026
+  \item MATH 221, Discrete Mathematics (mastery-based testing redesign) \hfill Summer 2026
+  \item MATH 101, Introduction to Analysis I \hfill Fall 2024
+  \item MATH 221, Discrete Mathematics \hfill Summer 2024
+\end{itemize}
+\medskip
+\textbf{Teaching assistant}, Drexel University
+\begin{itemize}
+  \item MATH 311, Probability and Statistics I \hfill Winter 2024, Spring 2025, Spring 2026
+  \item MATH 200, Multivariable Calculus \hfill Spring 2024, Winter 2025, Fall 2025
+  \item MATH 121, Calculus I \hfill Winter 2026
+  \item MATH 102, Introduction to Analysis II \hfill Fall 2022 -- Spring 2023
+\end{itemize}
+\medskip
+\textbf{Tutor}, Math Resource Center, Drexel University \hfill Fall 2022 -- present
+
+\medskip
+\textbf{Undergraduate teaching assistant}, introductory physics labs, Cornell University \hfill Fall 2019
+
+\section*{References}
+
+Available upon request.
+
+\vfill
+{\footnotesize Last updated: \today}
+
+\end{document}

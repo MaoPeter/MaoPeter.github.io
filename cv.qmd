@@ -2,20 +2,6 @@
 title: "CV"
 ---
 
-A PDF version of my CV is available [here](cv.pdf).
+[Download CV (PDF)](cv.pdf){.btn .btn-outline-primary}
 
-## Education
-
-- **PhD, Mathematics**, Drexel University *(in progress)*
-
-## Research interests
-
-*(Brief list.)*
-
-## Publications
-
-See the [Research](research.qmd) page.
-
-## Teaching
-
-See the [Teaching](teaching.qmd) page.
+<iframe src="cv.pdf" width="100%" height="900" style="border: 1px solid #ddd;"></iframe>
