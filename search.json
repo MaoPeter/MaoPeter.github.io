@@ -18,42 +18,14 @@
     "href": "research.html#publications-and-preprints",
     "title": "Research",
     "section": "Publications and preprints",
-    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2025. Necklaces over a Group with Identity Product. https://arxiv.org/abs/2405.08937.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
+    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "A PDF version of my CV is available here."
-  },
-  {
-    "objectID": "cv.html#education",
-    "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPhD, Mathematics, Drexel University (in progress)"
-  },
-  {
-    "objectID": "cv.html#research-interests",
-    "href": "cv.html#research-interests",
-    "title": "CV",
-    "section": "Research interests",
-    "text": "Research interests\n(Brief list.)"
-  },
-  {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nSee the Research page."
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "CV",
-    "section": "Teaching",
-    "text": "Teaching\nSee the Teaching page."
+    "text": "Download CV (PDF)"
   },
   {
     "objectID": "blog/index.html",
