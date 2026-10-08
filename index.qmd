@@ -16,6 +16,6 @@ about:
 
 I am a mathematics PhD student at [Drexel University](https://drexel.edu/coas/academics/departments-centers/mathematics/).
 
-My research interests are in combinatorics broadly, but my focus has lately been on dynamical algebraic combinatorics.
+My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics.
 
 You can reach me at `peter.mao@drexel.edu`.

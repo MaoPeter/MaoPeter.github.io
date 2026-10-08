@@ -7,11 +7,11 @@ nocite: |
 
 ## Interests
 
-*(A short paragraph about your research area, themes, and motivating questions.)*
+My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics.
 
 ## Publications and preprints
 
-Listed below from `publications.bib`. As you add entries to that file they will appear here automatically.
+<!-- Generated from publications.bib: new entries there appear here automatically. -->
 
 ::: {#refs}
 :::
