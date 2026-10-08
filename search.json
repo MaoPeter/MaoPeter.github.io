@@ -4,21 +4,21 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "(A short paragraph about your research area, themes, and motivating questions.)"
+    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
   },
   {
     "objectID": "research.html#interests",
     "href": "research.html#interests",
     "title": "Research",
     "section": "",
-    "text": "(A short paragraph about your research area, themes, and motivating questions.)"
+    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
   },
   {
     "objectID": "research.html#publications-and-preprints",
     "href": "research.html#publications-and-preprints",
     "title": "Research",
     "section": "Publications and preprints",
-    "text": "Publications and preprints\nListed below from publications.bib. As you add entries to that file they will appear here automatically.\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
+    "text": "Publications and preprints\n\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
   },
   {
     "objectID": "cv.html",
@@ -88,6 +88,6 @@
     "href": "index.html",
     "title": "Peter Mao",
     "section": "",
-    "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are in combinatorics broadly, but my focus has lately been on dynamical algebraic combinatorics.\nYou can reach me at peter.mao@drexel.edu."
+    "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics.\nYou can reach me at peter.mao@drexel.edu."
   }
 ]
