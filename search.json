@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
-  },
-  {
-    "objectID": "research.html#interests",
-    "href": "research.html#interests",
-    "title": "Research",
-    "section": "",
-    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
-  },
-  {
-    "objectID": "research.html#publications-and-preprints",
-    "href": "research.html#publications-and-preprints",
-    "title": "Research",
-    "section": "Publications and preprints",
-    "text": "Publications and preprints\n\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV (PDF)"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Hello, world\n\n\n\nmeta\n\n\n\nA first post — and a check that math and code rendering both work.\n\n\n\n\n\nMay 21, 2026\n\n1 min\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -56,38 +21,38 @@
     "text": "Cornell University\n\nUndergraduate teaching assistant for introductory physics labs."
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "Hello, world",
-    "section": "",
-    "text": "This is the first post on the site. It exists mostly to verify that the things I care about render correctly."
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html#math",
-    "href": "blog/posts/welcome/index.html#math",
-    "title": "Hello, world",
-    "section": "Math",
-    "text": "Math\nInline: the Euler identity is \\(e^{i\\pi} + 1 = 0\\).\nDisplay: \\[\n\\int_{-\\infty}^{\\infty} e^{-x^2}\\,dx = \\sqrt{\\pi}.\n\\]"
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html#a-python-cell",
-    "href": "blog/posts/welcome/index.html#a-python-cell",
-    "title": "Hello, world",
-    "section": "A Python cell",
-    "text": "A Python cell\n\nimport math\n[math.factorial(n) for n in range(8)]\n\n[1, 1, 2, 6, 24, 120, 720, 5040]"
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html#sage",
-    "href": "blog/posts/welcome/index.html#sage",
-    "title": "Hello, world",
-    "section": "Sage",
-    "text": "Sage\nFor Sage cells, set the chunk language to {python} and run with a Sage-aware kernel locally, then commit the _freeze/ directory so CI doesn’t need Sage installed. Example:\n# Run locally in a Sage-aware environment:\n# R.&lt;x&gt; = QQ[]\n# factor(x^4 - 1)"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Peter Mao",
     "section": "",
     "text": "I am a mathematics PhD student at Drexel University.\nMy research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics.\nYou can reach me at peter.mao@drexel.edu."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
+  },
+  {
+    "objectID": "research.html#interests",
+    "href": "research.html#interests",
+    "title": "Research",
+    "section": "",
+    "text": "My research interests are: algebraic combinatorics, dynamical algebraic combinatorics, symmetric group algebras, and permutation statistics."
+  },
+  {
+    "objectID": "research.html#publications-and-preprints",
+    "href": "research.html#publications-and-preprints",
+    "title": "Research",
+    "section": "Publications and preprints",
+    "text": "Publications and preprints\n\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
   }
 ]

@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://maopeter.github.io/research.html</loc>
-    <lastmod>2026-10-08T18:09:27.912Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maopeter.github.io/cv.html</loc>
-    <lastmod>2026-10-08T18:09:27.910Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maopeter.github.io/blog/index.html</loc>
-    <lastmod>2026-10-08T18:09:27.910Z</lastmod>
-  </url>
-  <url>
     <loc>https://maopeter.github.io/teaching.html</loc>
-    <lastmod>2026-10-08T18:09:27.915Z</lastmod>
-  </url>
-  <url>
-    <loc>https://maopeter.github.io/blog/posts/welcome/index.html</loc>
-    <lastmod>2026-10-08T18:09:27.910Z</lastmod>
+    <lastmod>2026-10-09T07:22:58.775Z</lastmod>
   </url>
   <url>
     <loc>https://maopeter.github.io/index.html</loc>
-    <lastmod>2026-10-08T18:09:27.910Z</lastmod>
+    <lastmod>2026-10-09T07:22:58.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maopeter.github.io/cv.html</loc>
+    <lastmod>2026-10-09T07:22:58.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://maopeter.github.io/research.html</loc>
+    <lastmod>2026-10-09T07:22:58.773Z</lastmod>
   </url>
 </urlset>
