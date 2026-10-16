@@ -93,6 +93,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -191,6 +220,14 @@ Grinberg, Darij, and Peter Mao. 2026. <span>“Necklaces over a Group with Ident
 Mao, Peter. 2026. <em>Foatic Homomesy</em>. <a href="https://maopeter.github.io/papers/foatic-homomesy.pdf">https://maopeter.github.io/papers/foatic-homomesy.pdf</a>.
 </div>
 </div>
+</section>
+<section id="talks" class="level2">
+<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<ul>
+<li><em>Foatic homomesy: telescoping proofs for orbit averages on <span class="math inline">\(S_n\)</span></em>. <a href="https://darijgrinberg.gitlab.io/cage/">CAGE Seminar</a>, Drexel University, October 2026 (upcoming). <a href="talks/foatic-homomesy-cage-2026.pdf">Slides</a></li>
+<li><em>Foatic homomesy: telescoping proofs for orbit-averages on <span class="math inline">\(S_n\)</span></em>. SIAM Student Chapter, Drexel University, May 2026.</li>
+<li><em>Necklaces over a group with identity product: counting and bijective connections</em>. SIAM Student Chapter, Drexel University, November 2024.</li>
+</ul>
 
 
 </section>

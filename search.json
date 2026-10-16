@@ -54,5 +54,12 @@
     "title": "Research",
     "section": "Publications and preprints",
     "text": "Publications and preprints\n\n\n\nGrinberg, Darij, and Peter Mao. 2026. “Necklaces over a Group with Identity Product.” Journal of Integer Sequences 29: Article 26.4.6. https://cs.uwaterloo.ca/journals/JIS/VOL29/Grinberg/grinberg2.html.\n\n\nMao, Peter. 2026. Foatic Homomesy. https://maopeter.github.io/papers/foatic-homomesy.pdf."
+  },
+  {
+    "objectID": "research.html#talks",
+    "href": "research.html#talks",
+    "title": "Research",
+    "section": "Talks",
+    "text": "Talks\n\nFoatic homomesy: telescoping proofs for orbit averages on \\(S_n\\). CAGE Seminar, Drexel University, October 2026 (upcoming). Slides\nFoatic homomesy: telescoping proofs for orbit-averages on \\(S_n\\). SIAM Student Chapter, Drexel University, May 2026.\nNecklaces over a group with identity product: counting and bijective connections. SIAM Student Chapter, Drexel University, November 2024."
   }
 ]
