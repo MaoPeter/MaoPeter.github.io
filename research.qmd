@@ -15,3 +15,9 @@ My research interests are: algebraic combinatorics, dynamical algebraic combinat
 
 ::: {#refs}
 :::
+
+## Talks
+
+- *Foatic homomesy: telescoping proofs for orbit averages on $S_n$*. [CAGE Seminar](https://darijgrinberg.gitlab.io/cage/), Drexel University, October 2026 (upcoming). [Slides](talks/foatic-homomesy-cage-2026.pdf)
+- *Foatic homomesy: telescoping proofs for orbit-averages on $S_n$*. SIAM Student Chapter, Drexel University, May 2026.
+- *Necklaces over a group with identity product: counting and bijective connections*. SIAM Student Chapter, Drexel University, November 2024.
